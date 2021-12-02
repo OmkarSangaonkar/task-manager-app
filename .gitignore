@@ -1,0 +1,6 @@
+node_modules
+src/config/
+src/lib/
+src/db/myval.js
+src/db/myvalidate.js
+src/asyncindex.js
